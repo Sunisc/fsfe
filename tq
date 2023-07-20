@@ -1,0 +1,29 @@
+[33mcommit cd57af8ad1308df1ad9ba3a8f83104c6593c57c6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sunisc <surya.poddutoori@gmail.com>
+Date:   Wed Jul 12 01:29:34 2023 -0400
+
+    database
+
+[33mcommit ee46ab10c96f99ae8db3200e515b8c6f66a02fe1[m
+Author: Sunisc <surya.poddutoori@gmail.com>
+Date:   Wed Jul 12 00:46:32 2023 -0400
+
+    adding body to html
+
+[33mcommit b049e8af4e2523db15cb3e36be623f01ce314340[m
+Author: Sunisc <surya.poddutoori@gmail.com>
+Date:   Wed Jul 12 00:37:29 2023 -0400
+
+    websocket
+
+[33mcommit 8b609788f3504e847559d8999dee30b230e9bb95[m
+Author: Sunisc <surya.poddutoori@gmail.com>
+Date:   Wed Jul 12 00:37:01 2023 -0400
+
+    web socket server
+
+[33mcommit f61676dc57897078644d9f47a785607a8d1c11be[m
+Author: Surya <surya@fullstack.com>
+Date:   Fri Jul 7 22:43:26 2023 +0000
+
+    First commit
